@@ -14,7 +14,6 @@ Can't find a template for your favorite game engine here? Make one and submit a 
 
 We are looking for contributions for:
 
-* Game Maker: Studio
 * Unreal Engine
 * Godot
 * Stencyl
