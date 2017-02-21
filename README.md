@@ -15,7 +15,6 @@ Can't find a template for your favorite game engine here? Make one and submit a 
 We are looking for contributions for:
 
 * Unreal Engine
-* Godot
 * Stencyl
 * LÖVE
 * etc
